@@ -1,1 +1,1 @@
-A simple website to dissolve issue between 2 people/teams using random dice number. The website is not adjusted to adapt to different screen widths. The main purposse was to implemet javascript for the first time.
+A simple website to dissolve issue between 2 people/teams using random dice number. The website is not adjusted to adapt to different screen widths. The main purpose was to implement javascript for the first time.
