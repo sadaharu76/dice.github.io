@@ -1,1 +1,1 @@
-# dice.github.io
+A simple website to dissolve issue between 2 people/teams using random dice number. The website is not adjusted to adapt to different screen widths. The main purposse was to implemet javascript for the first time.
